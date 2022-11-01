@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ok bye okay okay
+          ok bye how's life?
         </a>
       </header>
       <Login />
